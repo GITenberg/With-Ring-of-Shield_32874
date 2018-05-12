@@ -1,0 +1,30 @@
+_repo: With-Ring-of-Shield_32874
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Carter, F. A. (Freeland A.)
+    alias: Carter, Freeland A.
+    gutenberg_agent_id: '31898'
+    url: http://www.gutenberg.org/2009/agents/31898
+covers:
+- cover_type: archival
+  image_path: 32874-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Magee, Knox
+    gutenberg_agent_id: '36086'
+    url: http://www.gutenberg.org/2009/agents/36086
+description: ''
+gutenberg_issued: '2010-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Great Britain -- History -- House of York, 1461-1485 -- Fiction'
+title: With Ring of Shield
+url: http://www.gutenberg.org/ebooks/32874
